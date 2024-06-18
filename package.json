@@ -1,5 +1,5 @@
 {
-  "name": "react-native-performance-monorepo",
+  "name": "react-native-performance-monorepo-latest",
   "version": "1.0.0",
   "description": "This monorepo contains the packages related to profiling performance of React Native apps.",
   "private": true,
